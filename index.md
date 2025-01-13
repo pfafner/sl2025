@@ -68,7 +68,7 @@ En el curso se elaborarán dos proyectos, los cuales se indicarán más adelante
 
 ### Referencias avanzadas:
 
-* [L. Devroye, L. Györfi, G. Lugosi (1996). *A Probabilistic Theory of Pattern Recognition*.](http://library.lol/main/60F75D016A9C96D67D752536B9D1753A){:target="_blank"}
+* [L. Devroye, L. Györfi, G. Lugosi (1996). *A Probabilistic Theory of Pattern Recognition*.](https://libgen.li/ads60f75d016a9c96d67d752536b9d1753aKJKZR9XI){:target="_blank"}
 
 * [S. Shalev-Shwartz, S. Ben-David (2014). *Understanding Machine Learning: From Theory to Algorithms*.](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf){:target="_blank"}
 
