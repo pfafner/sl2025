@@ -1,9 +1,5 @@
 # Aprendizaje Estadístico 2025
 
-<img src="https://freesvg.org/img/warning2.png" alt="Warning!" width="100">
-
-This site is under construction! 
-
 Este es un curso introductorio al aprendizaje estadístico, con énfasis principalmente en los fundamentos matemáticos y estadísticos de los principales algoritmos de aprendizaje automático y reconocimiento de patrones. El tema central del curso es el estudio de métodos para obtener información útil a partir de datos. Abordamos temas principales como el aprendizaje supervisado y no supervisado, los modelos de regresión, y algunos tópicos recientes como el aprendizaje profundo. Al final del curso, los estudiantes comprederán los fundamentos de los algoritmos más populares del aprendizaje estadístico. Para aprovechar de mejor manera el curso, es recomendable que los estudiantes estén familiarizados con temas de álgebra lineal, cálculo, estadística matemática, y tener conocimientos de al menos un lenguaje de programación (*e.g.* Python, R, Matlab, C++, u otros).
 
 
@@ -28,7 +24,8 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 
 **No.**  | **Fecha**    | **Tópicos**                                                 | **Recursos**
 -------- | ------------ | ----------------------------------------------------------- |  -------------------------------------
-01       | 15.01.2025   | Introducción. Repaso de Probabilidad. 
+01       | 15.01.2025   | Introducción. Repaso de Probabilidad. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
+02       | 17.01.2025   | Variables aleatorias. Densidad y función de distribución. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | 
 
 
 # Proyectos
