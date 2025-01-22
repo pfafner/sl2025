@@ -26,6 +26,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 -------- | ------------ | ----------------------------------------------------------- |  -------------------------------------
 01       | 15.01.2025   | Introducción. Repaso de Probabilidad. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
 02       | 17.01.2025   | Variables aleatorias. Densidad y función de distribución. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | 
+03       | 22.01.2025   | Densidad y función de distribución.  | 
 
 
 # Proyectos
