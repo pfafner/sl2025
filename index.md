@@ -26,7 +26,9 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 -------- | ------------ | ----------------------------------------------------------- |  -------------------------------------
 01       | 15.01.2025   | Introducción. Repaso de Probabilidad. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
 02       | 17.01.2025   | Variables aleatorias. Densidad y función de distribución. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | 
-03       | 22.01.2025   | Densidad y función de distribución.  | 
+03       | 22.01.2025   | Función de cuantiles. Contraste entre distribuciones. PP-plots, QQ-plots, Estadístico KS. |  
+04       | 24.01.2025   | Estadísticos. Entropía, información mutua, Kullback-Leibler. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | 
+05       | 24.01.2025   | Funciones multivariadas. Normal multivariada. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | 
 
 
 # Proyectos
