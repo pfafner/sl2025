@@ -25,10 +25,10 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 **No.**  | **Fecha**    | **Tópicos**                                                 | **Recursos**
 -------- | ------------ | ----------------------------------------------------------- |  -------------------------------------
 01       | 15.01.2025   | Introducción. Repaso de Probabilidad. <br/> [Aula 01](aulas/Aula01.pdf){:target="_blank"} | 
-02       | 17.01.2025   | Variables aleatorias. Densidad y función de distribución. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | 
-03       | 22.01.2025   | Función de cuantiles. Contraste entre distribuciones. PP-plots, QQ-plots, KS. |  
-04       | 24.01.2025   | Estadísticos. Entropía, información mutua, Kullback-Leibler. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | 
-05       | 24.01.2025   | Funciones multivariadas. Normal multivariada. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | 
+02       | 17.01.2025   | Variables aleatorias. Densidad y función de distribución. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | [rvs.ipynb](code/rvs.ipynb){:target="_blank"}
+03       | 22.01.2025   | Función de cuantiles. Contraste entre distribuciones. PP-plots, QQ-plots, KS. | [qqplots.ipynb](code/qqplots.ipynb){:target="_blank"} [fitting.ipynb](code/fitting.ipynb){:target="_blank"}
+04       | 24.01.2025   | Estadísticos. Entropía, información mutua, Kullback-Leibler. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [data_exploration.ipynb](code/data_exploration.ipynb){:target="_blank"}
+05       | 24.01.2025   | Funciones multivariadas. Normal multivariada. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"}
 
 
 # Proyectos
