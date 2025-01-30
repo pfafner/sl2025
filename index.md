@@ -29,6 +29,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 03       | 22.01.2025   | Función de cuantiles. Contraste entre distribuciones. PP-plots, QQ-plots, KS. | [qqplots.ipynb](code/qqplots.ipynb){:target="_blank"} [fitting.ipynb](code/fitting.ipynb){:target="_blank"}
 04       | 24.01.2025   | Estadísticos. Entropía, información mutua, Kullback-Leibler. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [data_exploration.ipynb](code/data_exploration.ipynb){:target="_blank"}
 05       | 24.01.2025   | Funciones multivariadas. Normal multivariada. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | [generate_gaussian.ipynb](code/generate_gaussian.ipynb){:target="_blank"}
+06       | 29.01.2025   | Análisis de Componentes Principales. <br/> | 
 
 
 # Proyectos
