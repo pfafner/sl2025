@@ -32,6 +32,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 06       | 29.01.2025   | Análisis de Componentes Principales. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | [pca.ipynb](code/pca.ipynb) [deport.csv](code/deport.csv)
 07       | 31.01.2025   | Interpretación del PCA. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
 L1       | 31.01.2025   | Lista 1. **Fecha de Entrega: 14 de febrero.** | [Lista 01](listas/lista01.pdf){:target="_blank"} [areas.csv](listas/areas.csv){:target="_blank"} | 
+11       | 05.02.2025   | Escalamiento Multidimensional. <br/>  | 
 
 
 # Proyectos
