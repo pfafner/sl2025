@@ -34,6 +34,7 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 L1       | 31.01.2025   | Lista 1. **Fecha de Entrega: 14 de febrero.** | [Lista 01](listas/lista01.pdf){:target="_blank"} [areas.csv](listas/areas.csv){:target="_blank"} | 
 08       | 05.02.2025   | Escalamiento Multidimensional. <br/>  | 
 09       | 07.02.2025   | Distancia de Mahalanobis. Kernel PCA, Volume Ellipsoid Method. | 
+10       |     |    |  
 
 
 # Proyectos
