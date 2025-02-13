@@ -32,9 +32,10 @@ Este es un curso introductorio al aprendizaje estadístico, con énfasis princip
 06       | 29.01.2025   | Análisis de Componentes Principales. <br/> [Aula 05](aulas/Aula05.pdf){:target="_blank"} | [pca.ipynb](code/pca.ipynb) [deport.csv](code/deport.csv)
 07       | 31.01.2025   | Interpretación del PCA. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
 L1       | 31.01.2025   | Lista 1. **Fecha de Entrega: 14 de febrero.** | [Lista 01](listas/lista01.pdf){:target="_blank"} [areas.csv](listas/areas.csv){:target="_blank"} | 
-08       | 05.02.2025   | Escalamiento Multidimensional. <br/>  | 
-09       | 07.02.2025   | Distancia de Mahalanobis. Kernel PCA, Volume Ellipsoid Method. | 
-10       |     |    |  
+08       | 05.02.2025   | Escalamiento Multidimensional. <br/>  [Aula 07](aulas/Aula07.pdf){:target="_blank"} | 
+09       | 07.02.2025   | Distancia de Mahalanobis. Kernel PCA, Volume Ellipsoid Method. [Aula 08](aulas/Aula08.pdf){:target="_blank"} | 
+10       | 12.02.2025   | Variables latentes: Análisis de Componentes Independientes (ICA). [Aula 09](aulas/Aula09.pdf){:target="_blank"} |  
+11       | 12.02.2025   | Factoración No-Negativa de Matrices (NNMF). Sistemas de Recomendación. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | [movies.csv](code/movies.csv){:target="_blank"} [ratings.csv](code/ratings.csv){:target="_blank"} <br/> [recommender.ipynb](code/recommender.ipynb){:target="_blank"} 
 
 
 # Proyectos
