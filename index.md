@@ -37,7 +37,7 @@ L1       | 31.01.2025   | Lista 1. **Fecha de Entrega: 14 de febrero.** | [Lista
 10       | 12.02.2025   | Variables latentes: Análisis de Componentes Independientes (ICA). [Aula 09](aulas/Aula09.pdf){:target="_blank"} |  
 11       | 12.02.2025   | Factoración No-Negativa de Matrices (NNMF). Sistemas de Recomendación. [Aula 10](aulas/Aula10.pdf){:target="_blank"} | [movies.csv](code/movies.csv){:target="_blank"} [ratings.csv](code/ratings.csv){:target="_blank"} <br/> [recommender.ipynb](code/recommender.ipynb){:target="_blank"} 
 L2       | 14.02.2025   | Lista 2. **Fecha de Entrega: 28 de febrero.** | [Lista 02](listas/lista02.pdf){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} 
-12       |   |    | 
+12       | 19.02.2025   | *Manifold Learning*: Isomap, SNE y t-SNE, UMAP. | 
 
 # Proyectos
 <div id='id-prj1'/>
