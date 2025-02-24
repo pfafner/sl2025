@@ -39,6 +39,7 @@ L1       | 31.01.2025   | Lista 1. **Fecha de Entrega: 14 de febrero.** | [Lista
 L2       | 14.02.2025   | Lista 2. **Fecha de Entrega: 28 de febrero.** | [Lista 02](listas/lista02.pdf){:target="_blank"} [weather.csv](listas/weather.csv){:target="_blank"} [crimes.dat](listas/crimes.dat){:target="_blank"} 
 12       | 19.02.2025   | *Manifold Learning I*: Isomap, SNE y t-SNE, UMAP. | 
 13       | 21.02.2025   | *Manifold Learning II*: Spectral embedding, LLE, SOM. | 
+14       |    |   | 
 
 
 # Proyectos
