@@ -41,6 +41,7 @@ L2       | 14.02.2025   | Lista 2. **Fecha de Entrega: 28 de febrero.** | [Lista
 13       | 21.02.2025   | *Manifold Learning II*: Spectral embedding, LLE, SOM. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | 
 14       | 26.02.2025   | Estimación de densidades por kernels (KDE). <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} |
 15       | 28.02.2025   | Agrupamiento jerárquico. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
+16       |  |  | 
 
 
 # Proyectos
