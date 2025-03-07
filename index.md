@@ -41,14 +41,24 @@ L2       | 14.02.2025   | Lista 2. **Fecha de Entrega: 28 de febrero.** | [Lista
 13       | 21.02.2025   | *Manifold Learning II*: Spectral embedding, LLE, SOM. [Aula 12](aulas/Aula12.pdf){:target="_blank"} | 
 14       | 26.02.2025   | Estimación de densidades por kernels (KDE). <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} |
 15       | 28.02.2025   | Agrupamiento jerárquico. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
-16       |  |  | 
+L3       | 05.03.2025   | Lista 3. **Fecha de Entrega: 21 de marzo.**   | [Lista 3](listas/lista03.pdf){:target="_blank"} [wines.csv](listas/wines.csv){:target="_blank"} [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} [countries_binary.xlsx](listas/countries_binary.xlsx){:target="_blank"} 
+16       | 07.03.2025   | K-means y variantes de K-means. <br/> |  
 
 
 # Proyectos
 <div id='id-prj1'/>
 
-En el curso se elaborarán dos proyectos, los cuales se indicarán más adelante.
- 
+En el curso se elaborarán dos proyectos.
+
+## Primer Proyecto (Ecobici)
+<div id='id-proj1'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                                         
+-------- | ------------ | ------------------------------------------------------------------- 
+P1       | 07.03.2025   | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> Coordenadas de estaciones [stations.json](proyectos/stations.json){:target="_blank"} [stations.csv](proyectos/stations.csv){:target="_blank"} 
+.        | 09-11.04.2025   | Presentaciones 
+.        | 11.04.2025   | Entrega del reporte, código y presentación 
+
  
 # Referencias
 <div id='id-ref'/>
