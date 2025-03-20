@@ -44,8 +44,9 @@ L2       | 14.02.2025   | Lista 2. **Fecha de Entrega: 28 de febrero.** | [Lista
 L3       | 05.03.2025   | Lista 3. **Fecha de Entrega: 21 de marzo.**   | [Lista 3](listas/lista03.pdf){:target="_blank"} [wines.csv](listas/wines.csv){:target="_blank"} [hpi-data-2016.xlsx](listas/hpi-data-2016.xlsx){:target="_blank"} [countries_binary.xlsx](listas/countries_binary.xlsx){:target="_blank"} 
 16       | 07.03.2025   | K-means y variantes de K-means. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |  
 17       | 12.03.2025   | Métodos de agrupamiento basados en densidad: Means-Shift, DBSCAN, OPTICS, BIRCH. [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
-18       | 14.03.2025   | Mezclas gaussianas. Algoritmo EM. <br/> | 
-19       | 19.03.2025   | Métricas para algoritmos de clustering. <br/> | 
+18       | 14.03.2025   | Mezclas gaussianas. Algoritmo EM. <br/> [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
+19       | 19.03.2025   | Agrupamiento espectral. Algoritmo de Shi-Malik. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | 
+20       | 21.03.2025   | Métricas para algoritmos de clustering. <br/> | 
 
 
 # Proyectos
