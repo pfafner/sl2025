@@ -45,6 +45,7 @@ L3       | 05.03.2025   | Lista 3. **Fecha de Entrega: 21 de marzo.**   | [Lista
 16       | 07.03.2025   | K-means y variantes de K-means. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |  
 17       | 12.03.2025   | Métodos de agrupamiento basados en densidad: Means-Shift, DBSCAN, OPTICS, BIRCH. [Aula 16](aulas/Aula16.pdf){:target="_blank"} | 
 18       | 14.03.2025   | Mezclas gaussianas. Algoritmo EM. <br/> | 
+19       | 19.03.2025   | Métricas para algoritmos de clustering. <br/> | 
 
 
 # Proyectos
