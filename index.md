@@ -48,6 +48,7 @@ L3       | 05.03.2025   | Lista 3. **Fecha de Entrega: 21 de marzo.**   | [Lista
 19       | 19.03.2025   | Agrupamiento espectral. Algoritmo de Shi-Malik. [Aula 18](aulas/Aula18.pdf){:target="_blank"} | 
 20       | 21.03.2025   | Métricas para algoritmos de clustering. <br/> [Aula 19](aulas/Aula19.pdf){:target="_blank"} | [clustering-metrics.ipynb](code/clustering-metrics.ipynb){:target="_blank"} <br/> [silhouette.ipynb](code/silhouette.ipynb){:target="_blank"}
 21       | 26.03.2025   | Modelación predictiva. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | 
+21       | 26.03.2025   | KNN. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
 
 
 # Proyectos
