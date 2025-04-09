@@ -66,7 +66,25 @@ P1       | 07.03.2025   | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"
 .        | 09-11.04.2025   | Presentaciones 
 .        | 11.04.2025   | Entrega del reporte, código y presentación 
 
- 
+
+## Horarios Presentación Proyecto 1
+<div id='id-proj1hor'/>
+
+**Día**       | **Hora**     | **Expositores**
+------------- | ------------ | ---------------------------------
+ Miércoles 9  | 7:30         | Gaby y Lou
+ Miércoles 9  | 7:50         | Manu y Sofi
+ Miércoles 9  | 8:10         | Pablo, Ximena y Juan Pablo
+ Miércoles 9  | 8:30         | Juan Miguel y Pedro
+ Miércoles 9  | 8:50         | Sebastián y Aarón
+ Miércoles 9  | 9:10         | Jorge y Allan
+ Viernes 11   | 6:10         | Diana y Franco
+ Viernes 11   | 6:30         | Juan Luis y Nicolle
+ Viernes 11   | 6:50         | Mario y Mariel
+ Viernes 11   | 7:10         | Joab y Paulo
+ Viernes 11   | 7:30         | Sharis y Montse
+
+
 # Referencias
 <div id='id-ref'/>
 
