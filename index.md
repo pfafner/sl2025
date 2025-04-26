@@ -51,7 +51,7 @@ L3       | 05.03.2025   | Lista 3. **Fecha de Entrega: 21 de marzo.**   | [Lista
 22       | 26.03.2025   | KNN. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
 23       | 02.04.2025   | El clasificador bayesiano óptimo. <br/> | 
 24       | 09.04.2025   | Presentación de seminarios del Primer Proyecto. |  
-25       |  |  | 
+25       | 23.04.2025   | El clasificador bayesiano óptimo. Cálculo teóríco del clasificador bayesiano. <br/> | 
 
 
 # Proyectos
