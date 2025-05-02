@@ -53,6 +53,7 @@ L3       | 05.03.2025   | Lista 3. **Fecha de Entrega: 21 de marzo.**   | [Lista
 24       | 09.04.2025   | Presentación de seminarios del Primer Proyecto. |  
 25       | 23.04.2025   | Cálculo teóríco del clasificador bayesiano. <br/> | 
 26       | 25.04.2025   | Optimalidad del clasificador bayesiano. Cotas de error. Ejemplos. <br/> | 
+27       | 30.04.2025   | *Naïve Bayes*. Cálculo de la conjunta sin independencia. <br/> | 
 
 
 # Proyectos
