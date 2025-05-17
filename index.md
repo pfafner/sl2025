@@ -55,6 +55,9 @@ L3       | 05.03.2025   | Lista 3. **Fecha de Entrega: 21 de marzo.**   | [Lista
 26       | 25.04.2025   | Optimalidad del clasificador bayesiano. Cotas de error. Ejemplos. <br/> | 
 27       | 30.04.2025   | *Naïve Bayes*. Cálculo de la conjunta sin independencia. <br/> | 
 28       | 02.05.2025   | Análisis Discriminante. <br/> | 
+29       | 02.05.2025   | Árboles de Decisión. <br/> | 
+30       | 02.05.2025   | Modelos de ensamblaje. *Random Forests*. <br/> | 
+31       | 02.05.2025   | Modelos lineales I: regresión logística. <br/> | 
 
 
 # Proyectos
