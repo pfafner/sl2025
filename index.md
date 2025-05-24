@@ -59,7 +59,8 @@ L3       | 05.03.2025   | Lista 3. **Fecha de Entrega: 21 de marzo.**   | [Lista
 30       | 09.05.2025   | Modelos de ensamblaje. *Random Forests*. <br/> | 
 31       | 14.05.2025   | Modelos lineales I: regresión logística. <br/> | 
 32       | 16.05.2025   | Modelos lineales II: Perceptrón. SVM. <br/> | 
-33       | 21.05.2025   | Regresión linea, OLS. Ecuaciones normales. <br/> | 
+33       | 21.05.2025   | Regresión lineal: OLS. Ecuaciones normales. <br/> | 
+34       | 23.05.2025   | Regresión lineal: pruebas de hipótesis, gráficos de diagnóstico. | 
 
 
 # Proyectos
