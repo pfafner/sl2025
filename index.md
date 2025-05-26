@@ -79,7 +79,30 @@ P1       | 07.03.2025   | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"
 .        | 11.04.2025   | Entrega del reporte, código y presentación 
 
 
+## Segundo Proyecto (Tema Libre)
+<div id='id-proj2'/>
 
+**No.**  | **Fecha**    | **Tópicos**                                                         
+-------- | ------------ | ------------------------------------------------------------------- 
+P2       | 08.05.2025   | Indicaciones del proyecto 2. 
+.        | 20.05.2025   | Fecha límite para elegir tema. 
+.        | 02-06.06.2025   | Presentaciones 
+
+# Proyectos
+<div id='id-prj1'/>
+
+
+Miércoles 7:30 - Sebastián y Aarón
+Miércoles 7:50 - Mario y Mariel
+Miércoles 8:10 - Pablo, Ximena y Juan Pablo
+Miércoles 8:30 - Jorge y Allan
+Miércoles 8:50 - Juan Luis y Nicolle
+Miércoles 9:10 - Sharis y Montse
+Viernes 6:10 - Diana y Franco
+Viernes 6:30 - Joab y Paulo
+Viernes 6:50 - Manu y Sofi
+Viernes 7:10 - Juan Miguel y Pedro
+Viernes 7:30 - Gaby y Lou
 
 # Referencias
 <div id='id-ref'/>
