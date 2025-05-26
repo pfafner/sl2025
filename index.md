@@ -88,21 +88,23 @@ P2       | 08.05.2025   | Indicaciones del proyecto 2.
 .        | 20.05.2025   | Fecha límite para elegir tema. 
 .        | 02-06.06.2025   | Presentaciones 
 
-# Proyectos
-<div id='id-prj1'/>
+## Horarios presentaciones Proyecto 2
+<div id='id-hor2'/>
 
+**Fecha**    | **Hora**  | **Tópicos**                | **Tema**             
+------------ | --------- | -------------------------- | --------------------  
+04.06.2025   | 7:30      | Sebastián y Aarón          | 
+04.06.2025   | 7:50      | Mario y Mariel             | 
+04.06.2025   | 8:10      | Pablo, Ximena y Juan Pablo | 
+04.06.2025   | 8:30      | Jorge y Allan              | 
+04.06.2025   | 8:50      | Juan Luis y Nicolle        | 
+04.06.2025   | 9:10      | Sharis y Montse            | 
+06.06.2025   | 6:10      | Diana y Franco             | 
+06.06.2025   | 6:30      | Joab y Paulo               | 
+06.06.2025   | 6:50      | Manu y Sofi                | 
+06.06.2025   | 7:10      | Juan Miguel y Pedro        | 
+06.06.2025   | 7:30      | Gaby y Lou                 | 
 
-Miércoles 7:30 - Sebastián y Aarón
-Miércoles 7:50 - Mario y Mariel
-Miércoles 8:10 - Pablo, Ximena y Juan Pablo
-Miércoles 8:30 - Jorge y Allan
-Miércoles 8:50 - Juan Luis y Nicolle
-Miércoles 9:10 - Sharis y Montse
-Viernes 6:10 - Diana y Franco
-Viernes 6:30 - Joab y Paulo
-Viernes 6:50 - Manu y Sofi
-Viernes 7:10 - Juan Miguel y Pedro
-Viernes 7:30 - Gaby y Lou
 
 # Referencias
 <div id='id-ref'/>
