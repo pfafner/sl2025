@@ -62,6 +62,7 @@ L3       | 05.03.2025   | Lista 3. **Fecha de Entrega: 21 de marzo.**   | [Lista
 33       | 21.05.2025   | Regresión lineal: OLS. Ecuaciones normales. <br/> | 
 34       | 23.05.2025   | Regresión lineal: pruebas de hipótesis, gráficos de diagnóstico. | 
 35       | 23.05.2025   | Ejemplos de regresión en Statsmodels. | 
+36       | 04.06.2025   | Presentación de proyectos finales. | 
 
 
 # Proyectos
