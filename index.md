@@ -92,19 +92,19 @@ P2       | 08.05.2025   | Indicaciones del proyecto 2.
 ## Horarios presentaciones Proyecto 2
 <div id='id-hor2'/>
 
-**Fecha**    | **Hora**  | **Tópicos**                | **Tema**             
------------- | --------- | -------------------------- | --------------------  
-04.06.2025   | 7:30      | Sebastián y Aarón          | 
-04.06.2025   | 7:50      | Mario y Mariel             | 
-04.06.2025   | 8:10      | Pablo, Ximena y Juan Pablo | 
-04.06.2025   | 8:30      | Jorge y Allan              | 
-04.06.2025   | 8:50      | Juan Luis y Nicolle        | 
-04.06.2025   | 9:10      | Sharis y Montse            | 
-06.06.2025   | 6:10      | Diana y Franco             | 
-06.06.2025   | 6:30      | Joab y Paulo               | 
-06.06.2025   | 6:50      | Manu y Sofi                | 
-06.06.2025   | 7:10      | Juan Miguel y Pedro        | 
-06.06.2025   | 7:30      | Gaby y Lou                 | 
+**Fecha**    | **Tópicos**                | **Tema**             
+------------ | -------------------------- | --------------------  
+04.06.2025   | Sebastián y Aarón          | 
+04.06.2025   | Mario y Mariel             | 
+04.06.2025   | Pablo, Ximena y Juan Pablo | 
+04.06.2025   | Jorge y Allan              | 
+04.06.2025   | Juan Luis y Nicolle        | 
+04.06.2025   | Sharis y Montse            | 
+06.06.2025   | Diana y Franco             | 
+06.06.2025   | Joab y Paulo               | 
+06.06.2025   | Manu y Sofi                | 
+06.06.2025   | Juan Miguel y Pedro        | 
+06.06.2025   | Gaby y Lou                 | 
 
 
 # Referencias
