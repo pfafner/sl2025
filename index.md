@@ -94,9 +94,9 @@ P2       | 08.05.2025   | Indicaciones del proyecto 2.
 
 **Fecha**    | **Tópicos**                | **Tema**             
 ------------ | -------------------------- | --------------------  
-04.06.2025   | Sebastián y Aarón          | 
-04.06.2025   | Mario y Mariel             | 
-04.06.2025   | Pablo, Ximena y Juan Pablo | 
+04.06.2025   | Sebastián y Aarón          | Clasificación de Solicitudes de Préstamos 
+04.06.2025   | Mario y Mariel             | Análisis de Comportamiento del Consumidor 
+04.06.2025   | Pablo, Ximena y Juan Pablo | Predicción Taxonómica de Mariposas en Australia 
 04.06.2025   | Jorge y Allan              | 
 04.06.2025   | Juan Luis y Nicolle        | 
 04.06.2025   | Sharis y Montse            | 
