@@ -97,7 +97,7 @@ P2       | 08.05.2025   | Indicaciones del proyecto 2.
 04.06.2025   | Sebastián y Aarón          | Clasificación de Solicitudes de Préstamos 
 04.06.2025   | Mario y Mariel             | Análisis de Comportamiento del Consumidor 
 04.06.2025   | Pablo, Ximena y Juan Pablo | Predicción Taxonómica de Mariposas en Australia 
-04.06.2025   | Jorge y Allan              | 
+04.06.2025   | Jorge y Allan              | Clasificación de Anime
 04.06.2025   | Juan Luis y Nicolle        | 
 04.06.2025   | Sharis y Montse            | 
 06.06.2025   | Diana y Franco             | 
