@@ -99,11 +99,11 @@ P2       | 08.05.2025   | Indicaciones del proyecto 2.
 04.06.2025   | Pablo, Ximena y Juan Pablo | Predicción Taxonómica de Mariposas en Australia 
 04.06.2025   | Jorge y Allan              | Clasificación de Anime
 04.06.2025   | Juan Luis y Nicolle        | Indicadores económicos
-04.06.2025   | Sharis y Montse            | 
+04.06.2025   | Sharis y Montse            | Predicción de Churn en clientes
 06.06.2025   | Diana y Franco             | Abandono en planes de subscripción
 06.06.2025   | Joab y Paulo               | Detección de Fake News 
 06.06.2025   | Manu y Sofi                | Clasificación de riesgo crediticio
-06.06.2025   | Juan Miguel y Pedro        | 
+06.06.2025   | Juan Miguel y Pedro        | Detección de Fraude en tarjetas de crédito
 06.06.2025   | Gaby y Lou                 | Clasificación de granos de café
 
 
