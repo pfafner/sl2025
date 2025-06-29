@@ -68,7 +68,7 @@ L3       | 05.03.2025   | Lista 3. **Fecha de Entrega: 21 de marzo.**   | [Lista
 # Proyectos
 <div id='id-prj1'/>
 
-En el curso se elaborarán dos proyectos.
+En el curso se elaborarán dos proyectos, los cuales se describen a continuación.
 
 ## Primer Proyecto (Ecobici)
 <div id='id-proj1'/>
